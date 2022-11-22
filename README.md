@@ -8,7 +8,7 @@ I am a passionate software engineer and problem-solver. I have 2 years of experi
 
 *   🌍  I'm based in Washington, DC
 *   ✉️  You can contact me at [https://www.linkedin.com/in/alanli/](https://www.linkedin.com/in/alanli/)
-*   🚀  I'm currently working on [Mariner Finance](https://www.marinerfinance.com/)
+*   🚀  I'm currently working on [Mariner Finance's Online Lending Systems](https://www.marinerfinance.com/)
 *   ⚡  I am a CPA and an amateur marathon runner during my spare time. For the past 6 years, I have completed 5 full marathons and 18 half-marathon.
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>

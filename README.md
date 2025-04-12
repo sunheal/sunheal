@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a passionate software engineer and problem-solver. I have 2 years of experience developing customer-facing applications, My technical expertise includes Javascript technology such as React, Typescript, Node, Express, and other front-end frameworks with HTML and CSS. I also have an extensive backend and DevOps experience in microservices development. scaling and deployment with AWS and Azure.
+I am a passionate software engineer and problem-solver. I have 4 years of experience developing customer-facing applications, My technical expertise includes Javascript technology such as React, Typescript, Node, Express, and other front-end frameworks with HTML and CSS. I also have an extensive backend and DevOps experience in microservices development. scaling and deployment with AWS and Azure.
 
 *   🌍  I'm based in Washington, DC
 *   ✉️  You can contact me at [https://www.linkedin.com/in/alanli/](https://www.linkedin.com/in/alanli/)

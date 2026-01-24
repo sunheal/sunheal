@@ -1,12 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Li
 ===============================================================================================================================
 
-Software Engineer
+Software Engineer - AI & Platform
 -----------------
 
 I am a software engineer with a strong focus on AI-driven systems and data-centric application development, with 5 years of experience building and scaling customer-facing products. My technical expertise spans AI and backend engineering, including Python and JavaScript, and frameworks such as NumPy, Pandas, LangChain, FAISS, Retrieval-Augmented Generation (RAG), React, Node.js, and FastAPI.
+<br>
 I have extensive experience designing microservices, APIs, and ML-adjacent infrastructure, with a strong emphasis on scalability, reliability, and deployment using cloud platforms including AWS, Google Cloud, and Azure. My background enables me to bridge production software engineering with modern AI workflows, from data ingestion and retrieval to model-integrated applications.
+<br>
 Outside of work, I am a Certified Public Accountant (CPA) with a strong analytical foundation, and an amateur marathon runner. Over the past six years, I have completed 5 full marathons and 18 half-marathons, reflecting discipline, consistency, and long-term goal execution.
+<br>
 
 *   🌍  I'm based in Washington, DC
 *   ✉️  You can contact me at [https://www.linkedin.com/in/alanli/](https://www.linkedin.com/in/alanli/)

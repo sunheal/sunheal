@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer - AI & Platform
 -----------------
+
 *  I am a software engineer with a strong focus on AI-driven systems and data-centric application development, with 5 years of experience building and scaling customer-facing products. My technical expertise spans AI and backend engineering, including Python and JavaScript, and frameworks such as NumPy, Pandas, LangChain, FAISS, Retrieval-Augmented Generation (RAG), React, Node.js, and FastAPI.
 <br>
 *  I have extensive experience designing microservices, APIs, and ML-adjacent infrastructure, with a strong emphasis on scalability, reliability, and deployment using cloud platforms including AWS, Google Cloud, and Azure. My background enables me to bridge production software engineering with modern AI workflows, from data ingestion and retrieval to model-integrated applications.
